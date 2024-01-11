@@ -1,0 +1,6 @@
+Responde a estas dos preguntas:
+
+¿Cuál es la IP real (no la fake) del host www.fcbarcelona.es? ¿Cuál es el nameserver (NS) real (no el fake) que gestiona la zona fcbarcelona.es??  Búscalo en tu máquina anfitriona
+¿Cuál es la IP false del host www.fcbarcelona.es que obtienes en tu red interna? ¿Cuál es el nameserver (NS) falso que gestiona la zona fcbarcelona.es en tu red interna??  
+
+Explica  con tus palabras lo que está ocurriendo en la TAREA3, que es la práctica de Hackeo.
